@@ -1,0 +1,203 @@
+C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/decoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity decoder
+-- Compiling architecture BHV of decoder
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mux4x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mux4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity mux4x1
+-- Compiling architecture BHV of mux4x1
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ZeroExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ZeroExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity ZeroExtend
+-- Compiling architecture BHV of ZeroExtend
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/signExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/signExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity signExtend
+-- Compiling architecture BHV of signExtend
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity alu
+-- Compiling architecture BHV of alu
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/Controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/Controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity Controller
+-- Compiling architecture FSMD of Controller
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/register_file.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/register_file.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity register_file
+-- Compiling architecture BHV of register_file
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ALU_Controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ALU_Controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity ALU_controller
+-- Compiling architecture BHV of ALU_controller
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/constants.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/constants.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package constants
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package constants
+-- Compiling entity memory_tb
+-- Compiling architecture TB of memory_tb
+-- Loading entity memory
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory_tb.vhd(83): (vcom-135) Based literal has negative value.
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory_tb.vhd(90): (vcom-135) Based literal has negative value.
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture BHV of reg
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/datapath.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/datapath.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity datapath
+-- Compiling architecture STR of datapath
+-- Loading entity reg
+-- Loading entity mux2x1
+-- Loading entity memory
+-- Loading entity ZeroExtend
+-- Loading entity register_file
+-- Loading entity signExtend
+-- Loading entity mux4x1
+-- Loading entity alu
+-- Loading entity ALU_controller
+-- Loading entity ShiftLeft2Concat
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity alu_tb
+-- Compiling architecture TB of alu_tb
+-- Loading entity alu
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd(59): (vcom-135) Based literal has negative value.
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd(60): (vcom-135) Based literal has negative value.
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd(76): (vcom-135) Based literal has negative value.
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd(89): (vcom-135) Based literal has negative value.
+** Warning: C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/alu_tb.vhd(92): (vcom-135) Based literal has negative value.
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ram.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram
+-- Compiling architecture SYN of ram
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity memory
+-- Compiling architecture STR of memory
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Loading entity decoder
+-- Loading entity mux4x1
+-- Loading package altera_mf_components
+-- Loading entity ram
+-- Loading entity reg
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mips_architecture.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mips_architecture.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity mips_architecture
+-- Compiling architecture STR of mips_architecture
+-- Loading entity Controller
+-- Loading entity datapath
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ShiftLeft2Concat.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/ShiftLeft2Concat.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constants
+-- Compiling entity ShiftLeft2Concat
+-- Compiling architecture BHV of ShiftLeft2Concat
+
+} {} {}} C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mux2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vespi/Documents/Fall_2019/Digital_Design/Labs/Final_Project/Deliverable1/mux2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x1
+-- Compiling architecture BHV of mux2x1
+
+} {} {}}
